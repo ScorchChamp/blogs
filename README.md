@@ -1,0 +1,2 @@
+# blogs
+Simple blog page
