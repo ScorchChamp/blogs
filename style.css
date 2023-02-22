@@ -1,13 +1,10 @@
 
 .post-container {
-    font-size: 1.25em;
     overflow: hidden;
     text-overflow: ellipsis;
     width: 100%;
     text-align: center;
 }
-
-
 
 #main-container {
     display: flex;
@@ -24,16 +21,17 @@
     background-color: #f2f2f2;
     color: #000;
     transition: all 0.2s ease-in-out;
-    width: 45em;
-    margin: 1em;
+    width: 30em;
+    margin: 0.5em;
     max-height: 25em;
     padding: 1em;
-    
 }
+
 .a-container:hover {
     background-color: #e6e6e6;
 }
+
 li {
     text-align: left;
-    margin-left: 3em;
+    margin-left: 5em;
 }
